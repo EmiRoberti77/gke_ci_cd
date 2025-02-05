@@ -6,4 +6,4 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/kingdom-450018/locations/us-central1-c/clusters/kingdom-cluster-api
+  cluster: projects/kingdom-450018/locations/us-central1/clusters/kingdom-cluster-api
